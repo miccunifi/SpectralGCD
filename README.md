@@ -28,8 +28,6 @@ Check our [demo](https://github.com/miccunifi/SpectralGCD?tab=readme-ov-file#how
 }
 ```
 
-
-
 <details>
 <summary><h2>Installation</h2></summary>
 
