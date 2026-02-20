@@ -3,7 +3,7 @@
 
 [![arXiv](https://img.shields.io/badge/arXiv-Paper-b31b1b.svg)](https://arxiv.org/abs/2602.17395)
 [![OpenReview](https://img.shields.io/badge/ICLR-Paper-red.svg)](https://openreview.net/forum?id=PyfV9tFmdR)
-[![GitHub Stars](https://img.shields.io/github/stars/YOUR_USERNAME/SpectralGCD?style=social)](https://github.com/miccunifi/SpectralGCD)
+[![GitHub Stars](https://img.shields.io/github/stars/miccunifi/SpectralGCD?style=social)](https://github.com/miccunifi/SpectralGCD)
 
 This is the **official repository** of the [**ICLR 2026 paper**](https://openreview.net/forum?id=PyfV9tFmdR)
 "*SpectralGCD: Spectral Concept Selection and Cross-modal Representation Learning for Generalized Category Discovery*"
