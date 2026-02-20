@@ -233,7 +233,7 @@ Our codebase builds upon [GET](https://github.com/enguangW/GET) and [SimGCD](htt
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details. 
 
 ## Contact
 
