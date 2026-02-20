@@ -1,0 +1,22 @@
+name: spectralgcd
+channels:
+  - pytorch
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.9
+  - pip
+  - pip:
+      - --extra-index-url https://download.pytorch.org/whl/cu124
+      - ftfy==6.3.1
+      - loguru==0.7.3
+      - numpy==2.0.2
+      - open-clip-torch==2.32.0
+      - pandas==2.2.3
+      - pillow==11.1.0
+      - regex==2024.11.6
+      - scipy==1.13.1
+      - torch==2.6.0+cu124
+      - torchvision==0.21.0+cu124
+      - tqdm==4.67.1
+      - wandb==0.19.9
