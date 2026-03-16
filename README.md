@@ -37,7 +37,7 @@ The codebase has been tested with **Python 3.9** and **PyTorch 2.6.0** with **CU
 conda env create -f environment.yml
 conda activate spectralgcd
 ```
-
+ 
 </details>
 
 <details>
