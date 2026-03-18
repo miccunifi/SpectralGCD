@@ -209,6 +209,7 @@ python spectralgcd.py \
 
 <details open>
 <summary><h2>How To Use Spectral Filtering</h2></summary>
+    
 If you want to use Spectral Filtering on some external/proprietary data, inside 
 [`spectral_filtering_demo.ipynb`](spectral_filtering_demo.ipynb) you can find a  self-contained implementation that runs the full Spectral Filtering pipeline on any dataset you want.
 It might be useful even for inspecting which concepts from a large dictionary are retained for a given dataset.
